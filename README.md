@@ -1,1 +1,0 @@
-# Brownian motion playground
